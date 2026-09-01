@@ -1,5 +1,8 @@
 # Virtual UI
 
+**Live:** [virtual-ui-client.vercel.app](https://virtual-ui-client.vercel.app) ·
+**API:** [virtual-ui-server.vercel.app](https://virtual-ui-server.vercel.app)
+
 AI-powered React component generator. Describe a component in plain English, get
 production-ready JSX back, preview it live in the browser, save it to your
 account — and, as an admin, publish it straight to the
